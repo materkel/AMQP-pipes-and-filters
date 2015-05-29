@@ -1,0 +1,21 @@
+{
+  "name": "amqp-pipes",
+  "version": "1.0.0",
+  "description": "Pipes and Filters implementation for amqp.node/amqplib (RabbitMQ) library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AMQP",
+    "pipes",
+    "filters",
+    "RabbitMQ"
+  ],
+  "author": "Matthias Freßdorf <mfressdorf@gmail.com> (http://mfressdorf.de)",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.3.2",
+    "when": "^3.7.3"
+  }
+}
