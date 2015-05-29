@@ -1,10 +1,14 @@
 {
   "name": "amqp-pipes",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Pipes and Filters implementation for amqp.node/amqplib (RabbitMQ) library",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mfressdorf/AMQP-pipes-and-filters.git"
   },
   "keywords": [
     "AMQP",
@@ -13,7 +17,10 @@
     "RabbitMQ"
   ],
   "author": "Matthias Freßdorf <mfressdorf@gmail.com> (http://mfressdorf.de)",
-  "license": "MIT",
+  "licenses": {
+    "type": "MIT",
+    "url": "https://github.com/mfressdorf/AMQP-pipes-and-filters/blob/master/LICENSE"
+  },
   "dependencies": {
     "amqplib": "^0.3.2",
     "when": "^3.7.3"
