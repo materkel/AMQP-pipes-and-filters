@@ -18,6 +18,6 @@
     "url": "https://github.com/mfressdorf/AMQP-pipes-and-filters/blob/master/LICENSE"
   },
   "dependencies": {
-    "amqp-pipes": "amqp-pipes@1.0.0"
+    "amqp-pipes": "^1.0.0"
   }
 }
