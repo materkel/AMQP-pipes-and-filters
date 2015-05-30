@@ -1,6 +1,6 @@
 {
   "name": "amqp-pipes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pipes and Filters implementation for amqp.node/amqplib (RabbitMQ) library",
   "main": "index.js",
   "scripts": {
