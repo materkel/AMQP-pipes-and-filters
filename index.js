@@ -5,11 +5,13 @@ var Pipe = require('./pipe');
 
 module.exports = function(config) {
 
+  // read config parameters
   var pipes = config.pipes;
   var connection = config.connection;
   var filterPath = config.filterPath;
   var AMQP_URL = 'amqp://'+connection.user+':'+connection.pwd+'@'+connection.host+':'+connection.port;
 
+  // set up all pipes specified in the config file
   for (var i = 0, length = pipes.length; i < length; i++) {
     var pipe = pipes[i];
     var from = pipe.from;
