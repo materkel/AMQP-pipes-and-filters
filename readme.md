@@ -1,5 +1,4 @@
 #AMQP Pipes and Filters
--
 
 This is a small implementation of pipes and filters with the amqp.node ([amqplib](https://github.com/squaremo/amqp.node)) library for RabbitMQ.
 
