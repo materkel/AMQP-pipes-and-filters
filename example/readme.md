@@ -25,8 +25,8 @@ your config file should look like this: (*these connection details are the unmod
   "pipes": [
     {
       "from": "lovely",
-    "to": "greatness",
-    "filter": "lovelyFilter.js"
+      "to": "greatness",
+      "filter": "lovelyFilter.js"
     },
     {
       "from": "greatness",
