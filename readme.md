@@ -82,4 +82,4 @@ pipes(filters);
 ***
 
 You can find a **full runnable example** in the **example directory** here:
-[https://github.com/mfressdorf/AMQP-pipes-and-filters/example]()
+[https://github.com/mfressdorf/AMQP-pipes-and-filters/tree/master/example](https://github.com/mfressdorf/AMQP-pipes-and-filters/tree/master/example)
